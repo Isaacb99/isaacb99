@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Isaac Badías</h1>
 <h3 align="center">A Full Stack developer from Argentina, looking to get on board into tech world</h3>
 
+  ⚡ Who am i?
+    I am Isaac Badías, I am 23 years old, and I am from Argentina. I am constantly searching for technologies that can enhance my experience as a developer, using different     frameworks and languages. I want to apply my knowledge in the world of development to collaborate on significant projects 😵‍💫.
+
+
 - 🌱 I’m currently learning **full stack course from HENRY**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Isaacb99?tab=repositories](https://github.com/Isaacb99?tab=repositories)
