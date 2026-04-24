@@ -6,7 +6,7 @@
   I am Isaac Badías, I am 23 years old, and I am from Argentina. I am constantly searching for technologies that can enhance my experience as a developer, using different frameworks and languages. I want to apply my knowledge in the world of development to collaborate on significant projects 😵‍💫.
 </p>
 
-- 🌱 I’m currently learning **full stack course from HENRY**
+- 🌱 I am currently finishing my studies in **Programming at UNSJ**.
 - 👨‍💻 All of my projects are available at [https://github.com/Isaacb99?tab=repositories](https://github.com/Isaacb99?tab=repositories)
 - 💬 Ask me about **nodejs, python, php, javaEE, flutter, react, c++**
 - 📫 How to reach me **isaacbadias@gmail.com**
