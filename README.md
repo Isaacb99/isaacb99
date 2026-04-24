@@ -17,6 +17,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,django,express,figma,flask,git,html,js,mariadb,nodejs,postgres,py,react,redux,xd,php,flutter,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,flutter" alt="frontend-mobile" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,flask,php,java,postgres,mariadb" alt="backend-db" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,cpp,c,figma,xd" alt="tools-design" />
 </p>
