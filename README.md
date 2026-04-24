@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **full stack course from HENRY**
 - 👨‍💻 All of my projects are available at [https://github.com/Isaacb99?tab=repositories](https://github.com/Isaacb99?tab=repositories)
-- 💬 Ask me about **react, nodejs, python, c++**
+- 💬 Ask me about **nodejs, python, php, javaEE, flutter, react, c++**
 - 📫 How to reach me **isaacbadias@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
